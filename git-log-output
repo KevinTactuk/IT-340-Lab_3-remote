@@ -1,0 +1,31 @@
+commit 79c5483b8e5041cea96de2666f33105a84cd38b0
+Author: Kevin Tactuk Cordova <kft@njit.edu>
+Date:   Sun Oct 4 11:15:30 2026 -0400
+
+    Revert "Add notes files for Part 7"
+    
+    This reverts commit 5bdf66d4f2c4526eed3ad2b073091c800d36f990.
+
+commit 5bdf66d4f2c4526eed3ad2b073091c800d36f990
+Author: Kevin Tactuk Cordova <kft@njit.edu>
+Date:   Sun Oct 4 11:13:37 2026 -0400
+
+    Add notes files for Part 7
+
+commit 876c0e8d46acf15a877b8cfdb052ab763d210143
+Author: Kevin Tactuk Cordova <kft@njit.edu>
+Date:   Sun Oct 4 11:12:34 2026 -0400
+
+    Add second lab comment to os-release
+
+commit 9d30200faff61062ccaab49c1518689822966bcb
+Author: Kevin Tactuk Cordova <kft@njit.edu>
+Date:   Sun Oct 4 10:57:12 2026 -0400
+
+    Add lab comment to os-release
+
+commit 4a4f903ab0ed2a4d592ae0ab2116974684367a8b
+Author: Kevin Tactuk Cordova <kft@njit.edu>
+Date:   Sun Oct 4 10:53:16 2026 -0400
+
+    Add five system files for Lab 3
